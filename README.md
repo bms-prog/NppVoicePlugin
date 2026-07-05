@@ -1,4 +1,4 @@
-<img width="256" height="256" alt="logo_2 npvp" src="https://github.com/user-attachments/assets/b0675c37-28c1-40e4-8b11-e9ab55fbe198" />
+<img width="512" height="251" alt="logo_3_ npvp" src="https://github.com/user-attachments/assets/05eb7a1d-20ef-480e-9c9e-85ce54e11609" />
 
 
 # NppVoicePlugin
