@@ -25,4 +25,4 @@ Boost your productivity! Dictate text, read selected text aloud, and send spoken
 ===
 
 v.1.1
-Public release
+Public release. Notepad++ v8.8.8 and above
