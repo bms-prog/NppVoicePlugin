@@ -13,7 +13,7 @@ Completely local solution.
 * Voice typing with speech recognition
 * Text-to-speech
 * Send spoken or selected text to your local Ollama AI
-* Support for English and Russian interface languages
+* Supports English and Russian interface languages ​​and 19 voice model languages.
 * Seamless integration with Notepad++
 * For detailed instructions on installing components, configuring, and using them, please see the Help section in the plugin menu.
 
@@ -41,7 +41,7 @@ After installation, open **Help** from the **NppVoicePlugin** plugin menu and re
 * Голосовой ввод с распознаванием речи
 * Преобразование текста в речь
 * Отправка произнесенного или выделенного текста в локальный ИИ Ollama
-* Поддержка английского и русского языков интерфейса
+* Поддерживает английский и русский языки интерфейса и 19 языков голосовых моделей.
 * Бесшовная интеграция с Notepad++
 * Подробные инструкции по установке компонентов, настройке и использованию см. в разделе «Справка» в меню плагина.
 
