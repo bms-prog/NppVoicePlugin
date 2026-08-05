@@ -15,6 +15,7 @@ Completely local solution.
 * Send spoken or selected text to your local Ollama AI
 * Supports English and Russian interface languages ​​and 19 voice model languages.
 * Seamless integration with Notepad++
+* The ability to use text files as context for AI.
 * For detailed instructions on installing components, configuring, and using them, please see the Help section in the plugin menu.
 
 
@@ -43,6 +44,7 @@ After installation, open **Help** from the **NppVoicePlugin** plugin menu and re
 * Отправка произнесенного или выделенного текста в локальный ИИ Ollama
 * Поддерживает английский и русский языки интерфейса и 19 языков голосовых моделей.
 * Бесшовная интеграция с Notepad++
+* Использование текстовых файлов как контекста для ИИ
 * Подробные инструкции по установке компонентов, настройке и использованию см. в разделе «Справка» в меню плагина.
 
 
@@ -60,8 +62,20 @@ After installation, open **Help** from the **NppVoicePlugin** plugin menu and re
 
 # Versions
 
+v.1.4
+- Added the ability to use text files as context for AI.
+- Updated help files.
+
+v.1.3
+- Added the ability to send a voice message to Ollama along with selected text as context.
+For example:
+Select 2+2 in the text and say "Count"
+Select previous questions and answers to Ollama and ask a follow-up question using voice.
+- Changed the status text after sending a text to Ollama
+- Fixed the way Ollama displays a response after a selected block of text.
+
 v.1.2
-The plugin is made universal for all available voice models.
+- The plugin is made universal for all available voice models.
 
 v.1.1
-Public release for Notepad++ v8.8.8 and above
+- Public release for Notepad++ v8.8.8 and above
