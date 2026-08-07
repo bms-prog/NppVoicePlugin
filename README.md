@@ -62,6 +62,12 @@ After installation, open **Help** from the **NppVoicePlugin** plugin menu and re
 
 # Versions
 
+v.1.5
+- Added msvcp140.dll, vcruntime140.dll, vcruntime140_1.dll (release VC++ 2015-2022
+Redistributable) to the plugin package — fixes "The specified module could not
+be found" error when running without administrator rights and without the
+VC++ Redistributable installed on the system.
+
 v.1.4
 - Added the ability to use text files as context for AI.
 - Updated help files.
