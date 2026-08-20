@@ -1,12 +1,10 @@
 <img width="512" height="251" alt="logo_3_ npvp" src="https://github.com/user-attachments/assets/05eb7a1d-20ef-480e-9c9e-85ce54e11609" />
 
+# [NppVoicePlugin](https://github.com/bms-prog/NppVoicePlugin/releases/latest)
+
 [Honest Cat Team Git Home](https://cutt.ly/kyd82D8Z)
 
 [FAQ](https://sites.google.com/view/nppvoiceplugin/frequently-asked-questions)
-
-
-# NppVoicePlugin
-
 
 ## EN
 
