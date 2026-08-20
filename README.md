@@ -32,7 +32,7 @@ Example:
 `C:\Program Files\Notepad++\plugins\NppVoicePlugin\`
 
 
-After installation, open **Help** from the **NppVoicePlugin** plugin menu and read the documentation.
+⚠️ After installation, read the Help in the NppVoicePlugin plugin menu and install the remaining components.
 
 
 ## RU
@@ -60,7 +60,7 @@ After installation, open **Help** from the **NppVoicePlugin** plugin menu and re
 `C:\Program Files\Notepad++\plugins\NppVoicePlugin\`
 
 
-Прочитайте Помощь в меню плагина NppVoicePlugin
+⚠️ После установки прочитайте Помощь в меню плагина NppVoicePlugin и установите остальные компоненты.
 
 
 # Versions
